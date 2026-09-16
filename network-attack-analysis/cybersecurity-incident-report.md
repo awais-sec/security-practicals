@@ -13,6 +13,3 @@ When website visitors try to establish a connection with the web server, a three
 3. The user sends a packet with ACK to the web server, and the handshake is acknowledged.
 
 But when a malicious attacker sends a large number of SYN packets at once, the web server can become overwhelmed, which leads to a downed network. The logs indicate that a malicious IP, 203.0.113.0, started sending SYN packets to the web server, which can be seen at log entry 52 of the Wireshark TCP/HTTP log.
-
----
-*Awais Ahmed's own completed work.*
