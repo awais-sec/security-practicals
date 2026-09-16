@@ -20,6 +20,3 @@ Raw tcpdump capture provided for the OS Hardening exercise (see `security-incide
 14:25:29.576597 IP greatrecipesforme.com.http > your.machine.56378: Flags [.], ack 74, win 512, options [nop,nop,TS val 3302989649 ecr 3302989649], length 0
 …<a lot of traffic on port 80>...
 ```
-
----
-*Source: provided course data for the OS Hardening exercise, not Awais's own work.*
