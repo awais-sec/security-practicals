@@ -11,6 +11,3 @@ A brute force attack was carried out against the website "yummyrecipesforme.com"
 ## Section 3: Recommend one remediation for brute force attacks
 
 Reducing the attack surface is the best option to help mitigate this risk. MFA (or 2FA) is the best defense against brute force attacks. Other measures — strong password policies, firewall configuration, and source code audits — should also be part of a strong security posture.
-
----
-*Awais Ahmed's own completed work.*
