@@ -11,6 +11,3 @@ Ethics in cybersecurity is the first and foremost thing every employee should be
 1. Strong password policies based on NIST guidance can help the company overcome its weak password management.
 2. Installing firewalls, maintaining them, disabling unused ports, and port filtering leads to a more controlled network, which can stop an attacker from penetrating the internal network through unwanted ports.
 3. Multi-factor authentication (MFA) requires users to verify their identity in two or more ways. MFA options include a password, PIN, badge, one-time password (OTP) sent to a phone, fingerprint, and more. This security measure makes it much harder for an attacker to gain access to the internal network.
-
----
-*Awais Ahmed's own completed work.*
