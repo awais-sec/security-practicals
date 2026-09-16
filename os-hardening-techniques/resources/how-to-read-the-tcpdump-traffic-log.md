@@ -28,6 +28,3 @@ Then a sudden change happens in the logs. Traffic is routed from the source comp
 - Service Name and Transport Protocol Port Number Registry
 - How to Capture and Analyze Network Traffic with tcpdump?
 - Masterclass – Tcpdump – Interpreting Output
-
----
-*Source: provided course reading material for the OS Hardening exercise, not Awais's own work.*
