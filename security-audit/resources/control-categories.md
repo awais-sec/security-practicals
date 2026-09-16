@@ -55,6 +55,3 @@ These work together to provide defense in depth.
 | Signage indicating alarm service provider | Deterrent | Deter certain threats by making a successful attack seem unlikely |
 | Locks | Deterrent/Preventative | Bolster integrity by deterring/preventing unauthorized physical access to assets |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire and prevent damage to physical assets such as inventory, servers, etc. |
-
----
-*Source: provided course reading material for the Security Audit exercise, not Awais's own work.*
