@@ -75,6 +75,3 @@ WHERE NOT department = 'Information Technology';
 ## Summary
 
 The analysis successfully identified multiple security-related events, including failed login attempts outside business hours, and provided detailed employee access patterns by department and location. These findings helped identify potential vulnerabilities in authentication systems and access management. The results demonstrate how SQL can be effectively used to investigate security events and support organizational security posture.
-
----
-*Awais Ahmed's own completed work.*
