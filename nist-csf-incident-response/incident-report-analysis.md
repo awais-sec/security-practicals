@@ -26,6 +26,3 @@ Responding to an attack should follow a playbook. First, top-priority assets sho
 ## Recover
 
 Ensure all resources are restored and all services are back up. Anything infected should be inspected and kept separate, since it may still contain malware left by the attacker. Recovery of all services should be confirmed, since the organization's availability is important so clients can regain access.
-
----
-*Awais Ahmed's own completed work.*
