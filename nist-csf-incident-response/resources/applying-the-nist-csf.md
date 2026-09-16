@@ -39,6 +39,3 @@ These core functions help organizations manage cybersecurity risks, implement ri
 - Communications: how will restoration procedures be communicated within the organization and with those directly affected by the attack, including end users and IT staff?
 
 The NIST CSF and its five core functions provide a framework spanning proactive planning to reactive measures for cybersecurity threats. These functions are essential for ensuring an organization has effective security strategies in place. An organization must be able to quickly recover from any damage caused by an incident to minimize its level of risk.
-
----
-*Source: provided course reading material for the NIST CSF exercise, not Awais's own work.*
