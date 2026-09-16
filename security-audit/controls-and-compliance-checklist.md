@@ -54,5 +54,3 @@ Not a single control, but multiple controls at Botium Toys should be implemented
 
 To avoid fines, compliance gaps at Botium Toys also need to be filled — separation of duties, encryption, and least privilege in particular. To identify additional needed controls, the company's assets should also be classified. Together, these controls may improve the security posture and better protect the company's sensitive information.
 
----
-*Awais Ahmed's own completed work (originally submitted as a filled-in PDF checklist with checkboxes).*
