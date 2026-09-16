@@ -44,6 +44,3 @@ NIST developed SP 800-53 to give businesses a customizable information privacy p
   - Regularly audit user privileges
 
 *Note: in the access controls category, SP 800-53 lists least privilege sixth, i.e. AC-6.*
-
----
-*Awais Ahmed's own completed work.*
