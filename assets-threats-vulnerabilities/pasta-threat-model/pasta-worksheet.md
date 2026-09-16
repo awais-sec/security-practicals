@@ -9,6 +9,3 @@
 | **V. Vulnerability analysis** | Two vulnerabilities that could be exploited: flaws in the network (e.g. session hijacking); flaws in the codebase (e.g. SQL injection). |
 | **VI. Attack modeling** | Threat actors can manipulate an employee to gain false authentication access to the system, or use SQL injection to steal users' credentials from the database. *(See the sample attack tree diagram resource.)* |
 | **VII. Risk analysis and impact** | Four security controls that can reduce risk: training employees about social engineering; prepared statements to prevent SQL injection; vulnerability assessments; secure payment methods. |
-
----
-*Awais Ahmed's own completed work. See `resources/pasta-attack-tree.pptx` and `resources/pasta-data-flow-diagram.pptx` for the sample diagrams this worksheet references.*
