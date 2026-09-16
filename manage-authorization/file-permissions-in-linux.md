@@ -32,6 +32,3 @@ The files and directories in the projects directory belong to the `researcher2` 
 ## Summary
 
 By reviewing and ensuring all users have the permissions they're authorized to have, this file permission report was completed. Least privilege is very important to ensure that only authorized people have access to data, and by modifying file permissions, that was confirmed here.
-
----
-*Awais Ahmed's own completed work.*
