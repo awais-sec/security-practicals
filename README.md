@@ -64,8 +64,3 @@ This repository primarily contains **academic coursework and practical exercises
 - [Security Case Investigations](https://github.com/awais-sec/security-case-investigations)
 - [Security Notes](https://github.com/awais-sec/security-notes)
 - [LearnStack](https://github.com/awais-sec/learnstack)
-
-## Author
-
-**Awais Ahmed** — Cybersecurity | Digital Forensics & Incident Response  
-[Portfolio](https://AwaisAhmed.dev) · [LinkedIn](https://www.linkedin.com/in/awais-sec/)
