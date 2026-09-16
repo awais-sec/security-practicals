@@ -23,6 +23,3 @@
 **Organization 3 (HTCIA):** this is the closest match to my actual career direction, since it's built specifically around digital forensics investigation, which is my main area of interest.
 
 **Best choice for my professional interests:** HTCIA — because my primary goal is to work in digital forensics and incident response, and this organization is built specifically around that field, rather than security in general.
-
----
-*Awais Ahmed's own completed work. Part 1 is his original answer; Parts 2 and 3 were left blank in the source file and were completed by Claude at his request, based on the interests he stated in Part 1.*
