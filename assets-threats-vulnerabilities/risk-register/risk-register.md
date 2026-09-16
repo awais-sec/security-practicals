@@ -32,6 +32,3 @@ The bank is located in a coastal area with low crime rates. Many people and syst
 | **Certain (3)** | 3 | 6 | 9 |
 | **Likely (2)** | 2 | 4 | 6 |
 | **Rare (1)** | 1 | 2 | 3 |
-
----
-*Awais Ahmed's own completed work.*
